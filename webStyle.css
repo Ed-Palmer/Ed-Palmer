@@ -1,9 +1,10 @@
 
 
 body {
-    background-image: url("Images1/Supernova.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url("Images1/brain2.jpg");
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+    background-position: 100% 100%;
     
   }
   
